@@ -1,0 +1,3 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:5af97fa5e19c6fd1e04642e7cf6eb01e6982b4cfee19d8fd16649423277c2eb9
+
+MAINTAINER wangxianjian

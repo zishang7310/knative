@@ -1,0 +1,3 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:ca3bad368a2ac40f33ad9e47c1075cc2b833301b4bc772fb84c51f52cc1c0a35
+
+MAINTAINER wangxianjian

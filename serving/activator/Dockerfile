@@ -1,0 +1,4 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:00aeb9267dc6445bbb11cb90636e9cde44404c6303d55b81aa074381b4989eef
+
+
+MAINTAINER wangxianjian
