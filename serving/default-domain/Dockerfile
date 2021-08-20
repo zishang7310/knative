@@ -1,0 +1,3 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/default-domain@sha256:3cd721f567b6d53b1077ebee41df7769b7d153007c406f098996cc9949fed594
+
+MAINTAINER wangxianjian
