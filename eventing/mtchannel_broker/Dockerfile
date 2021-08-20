@@ -1,0 +1,3 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/mtchannel_broker@sha256:eda810c3cc44d3bccaa0e5a06443a8039a101dc42aec776ff9e77a9fe609335c
+
+MAINTAINER wangxianjian

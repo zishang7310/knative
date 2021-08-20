@@ -1,0 +1,3 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/controller@sha256:82768c9539df20c117c637cad9a0c4d512e225e0f46411c85ce5d593ad1a4da8
+
+MAINTAINER wangxianjian

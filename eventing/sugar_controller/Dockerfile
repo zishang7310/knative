@@ -1,0 +1,4 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/sugar_controller@sha256:2eef66b40dccf93748b35ba91c29a7a6ff8ea643ba8824c7248224d381fc95bb
+
+
+MAINTAINER wangxianjian

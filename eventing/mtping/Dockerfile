@@ -1,0 +1,3 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/mtping@sha256:c6f829a3c9a28446629d5843c216682c1c2648262e5aa7211318e3d6bb79cf2b
+
+MAINTAINER wangxianjian

@@ -1,0 +1,4 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/in_memory/channel_controller@sha256:2486be5065ccc79516a57a3462d747ded6ac737b6f42e4d99730eaa641375041
+
+
+MAINTAINER wangxianjian

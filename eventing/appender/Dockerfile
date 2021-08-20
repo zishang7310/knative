@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/appender@sha256:4b727815be8677de6edab7d977a2767e1c43cb26a32755aabfde316ac921954f
+MAINTAINER wangxianjian

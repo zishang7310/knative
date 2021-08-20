@@ -1,0 +1,3 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/broker/ingress@sha256:ccb2f5e04b0e9892585debbf6eefed748a6a218431967768dc5a3752c7132499
+
+MAINTAINER wangxianjian

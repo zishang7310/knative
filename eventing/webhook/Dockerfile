@@ -1,0 +1,3 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/webhook@sha256:9208eed4a101776d0e620ade638837d46fdcd6b9db30f05851a85316029dc92a
+
+MAINTAINER wangxianjian

@@ -1,0 +1,3 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/broker/filter@sha256:e16d7a64b82417c3f2c1d55410ec5c5cb454377e8b9b3c1f60de7ebb21a9d530
+
+MAINTAINER wangxianjian

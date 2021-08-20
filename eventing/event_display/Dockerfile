@@ -1,0 +1,3 @@
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/event_display@sha256:5a4aeff69eb5d665820757fbf739f7d42f94f97c8c2ff78648a1f3e5355aa15f
+
+MAINTAINER wangxianjian
