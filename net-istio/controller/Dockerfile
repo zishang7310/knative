@@ -1,0 +1,3 @@
+FROM gcr.io/knative-releases/knative.dev/net-istio/cmd/controller@sha256:daacf3cce483effa694c4097653e42b11e89ea5ccb6bb46409cdf531d46f2dd3
+
+MAINTAINER wangxianjian
